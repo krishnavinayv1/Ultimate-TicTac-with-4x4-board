@@ -1,6 +1,6 @@
 * Just go through the Asignment.pdf
 
-* To know the class which exists in .pyc files see the simulator code .
+* To know the class which exists in .pyc files see the simulator code which exists in "ai" folder.
 
 * To play the game first see the instructions in Assignment.pdf file and write command 
 python simulator.py 2
